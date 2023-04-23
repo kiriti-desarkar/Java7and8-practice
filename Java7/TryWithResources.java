@@ -5,6 +5,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
+// No need to close resource uses AutoCloseable
 public class TryWithResources{
     public static void main(String[] args) throws FileNotFoundException, IOException{
     try(BufferedReader br = new BufferedReader(
