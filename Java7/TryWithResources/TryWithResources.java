@@ -1,4 +1,4 @@
-package Java7;
+package Java7.TryWithResources;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
