@@ -1,0 +1,4 @@
+Hello
+This is a demo
+on Java 7
+new features.
